@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "KORNIX",
+      "password_hash": "kornix7218",
+      "isVerified": true,
+      "isAdmin": true,
+      "robux": 1000,
+      "tix": 500,
+      "isBanned": false,
+      "accountDeleted": false
+    }
+  ]
+}
